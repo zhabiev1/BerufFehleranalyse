@@ -1,0 +1,6 @@
+File,Data_Type,Top_5_Predicted_Jobs,Cluster_0,Cluster_1,Cluster_2,Cluster_3,Cluster_4,Cluster_5,Cluster_6,Cluster_7,Cluster_8,Cluster_9
+decorte_esco_predictions_linear.pkl,real,"[('accountant', 119), ('customer service representative', 104), ('head chef', 56), ('clothing specialised seller', 52), ('ict system administrator', 48)]",0,135,57,127,0,67,0,111,1298,7
+decorte_predictions_linear.pkl,real,"[('accountant', 124), ('customer service representative', 68), ('head chef', 48), ('public relations manager', 46), ('sales account manager', 45)]",5,78,47,65,0,125,0,15,1446,21
+karrierewege_cp_predictions_linear.pkl,synthetic,"[('mover', 24594), ('domestic cleaner', 11426), ('building construction worker', 10619), ('kitchen porter', 6179), ('sales assistant', 5469)]",7392,5743,26107,1294,0,43391,0,1835,51765,0
+karrierewege_occ_predictions_linear.pkl,synthetic,"[('mover', 21894), ('domestic cleaner', 11439), ('building construction worker', 10709), ('kitchen porter', 5647), ('sales assistant', 4545)]",7761,6327,26467,1364,0,41835,0,2075,51701,0
+karrierewege_predictions_linear.pkl,real,"[('mover', 89231), ('domestic cleaner', 41705), ('building construction worker', 33441), ('kitchen porter', 19827), ('shelf filler', 18535)]",40775,36499,127049,6758,134,174534,0,11717,260524,0

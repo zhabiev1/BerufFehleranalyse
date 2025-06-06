@@ -1,0 +1,6 @@
+File,Data_Type,average_group_changes
+decorte_esco_predictions_linear.pkl,real,1241.0
+decorte_predictions_linear.pkl,real,1241.0
+karrierewege_cp_predictions_linear.pkl,synthetic,15518.4
+karrierewege_occ_predictions_linear.pkl,synthetic,15518.4
+karrierewege_predictions_linear.pkl,real,36508.2

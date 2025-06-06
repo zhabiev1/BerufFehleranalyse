@@ -1,0 +1,6 @@
+File,Data_Type,entropy,hhi,unique_titles
+decorte_esco_predictions_linear.pkl,real,7.421865888240267,0.010994997542501182,371
+decorte_predictions_linear.pkl,real,7.589369321713216,0.010104693145241258,422
+karrierewege_cp_predictions_linear.pkl,synthetic,6.334580753929861,0.039197454583641704,935
+karrierewege_occ_predictions_linear.pkl,synthetic,6.387459445113185,0.03636597098895694,927
+karrierewege_predictions_linear.pkl,real,6.768825888014962,0.02828414077562096,1133
