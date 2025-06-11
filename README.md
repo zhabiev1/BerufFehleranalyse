@@ -40,3 +40,6 @@ Dieses Projekt analysiert die Vorhersagequalität von beruflichen Karrierepfaden
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn sentence-transformers torch
+
+🔧 Hinweis:
+Wenn beim Ausführen des Projekts ein Fehler auftritt (z. B. beim Laden von .pkl-Dateien oder Embeddings), löschen Sie  bitte den Ordner cache/:rm -r cache/
